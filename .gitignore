@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+.vercel
+# scripts de prueba locales
+check*.mjs
+dbg.mjs
+flows*.mjs
+lib-read.mjs
+responsive.mjs
+shots.mjs
+smoke.mjs
